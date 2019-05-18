@@ -24,7 +24,9 @@ Additional resources:
 
 ## Data
 
-* `police.csv` is the Rhode Island dataset from the [Stanford Open Policing Project](https://openpolicing.stanford.edu/), made available under the [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/summary/).
+`police.csv` contains data of traffic stops made by police in Rhode Island. 
+
+It comes from the [Stanford Open Policing Project](https://openpolicing.stanford.edu/), made available under the [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/summary/).
 
 ----
 
