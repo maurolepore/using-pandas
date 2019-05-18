@@ -28,4 +28,4 @@ Additional resources:
 
 ----
 
-This material was adapted from the tutorial[_Using pandas for Better (and Worse) Data Science_](https://github.com/justmarkham/pycon-2018-tutorial), presented by [Kevin Markham](http://www.dataschool.io/about/) at PyCon on May 10, 2018. Kevin Markham is the founder of [Data School](http://www.dataschool.io/), an online school for learning data science with Python.
+This material was adapted from the tutorial [_Using pandas for Better (and Worse) Data Science_](https://github.com/justmarkham/pycon-2018-tutorial), presented by [Kevin Markham](http://www.dataschool.io/about/) at PyCon on May 10, 2018. Kevin Markham is the founder of [Data School](http://www.dataschool.io/), an online school for learning data science with Python.
