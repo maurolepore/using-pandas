@@ -2,26 +2,28 @@
 
 https://github.com/maurolepore/using-pandas
 
-### Curriculum:
+[Today's feedback](https://github.com/maurolepore/using-pandas/issues/1) :+1: :-1:
+
+### Curriculum
 
 Module 1 > Python for data science
 
 > Students will be familiarized with popular Python libraries that are used in Data Science, such as Pandas.
 
-### Today's objectives: 
+### Today's objectives
 
 * Import, explore and answer a data science question with a real-world dataset and pandas.
 
-### Today's requirements:
+### Today's requirements
 
 * You already know the basics of [pandas](http://pandas.pydata.org/pandas-docs/stable/).
 
-### Additional resources:
+### Additional resources
 
 * [How to do stuff with pandas](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb).
 * [Cheetsheets](https://www.dataquest.io/blog/topics/cheat-sheets/).
 
-### Data:
+### Data
 
 `police.csv` contains data of traffic stops made by police in Rhode Island. 
 
