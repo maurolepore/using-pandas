@@ -2,7 +2,7 @@
 
 https://github.com/maurolepore/using-pandas
 
-[Today's feedback](https://github.com/maurolepore/using-pandas/issues/1) (:+1: :-1:)
+[Today's feedback](https://github.com/maurolepore/using-pandas/issues/1) :+1: :-1:
 
 ### Curriculum
 
