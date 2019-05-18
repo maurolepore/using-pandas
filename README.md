@@ -1,25 +1,25 @@
-(2018-11-30)  
-![](https://i.imgur.com/AyyZf3T.png)
-
----
-
-# Using pandas 
+# Using pandas (25')
 
 https://github.com/maurolepore/using-pandas
 
-This tutorial is about pandas, a python library for multiple phases of the data science workflow.
+## Where this fits?
 
-## Objectives
+(2018-11-30)  
+![](https://i.imgur.com/AyyZf3T.png)
 
-* Perform a variety of data science tasks on a real-world dataset using pandas.
-* Learn how to avoid either a pandas pitfall or a data science pitfall. 
-* Become more confident using pandas.
+## What you will learn
 
-## Requirements
+Objectives: 
 
-You will get the most out of this tutorial if you are an intermediate pandas user, since the tutorial will not cover pandas basics. 
+* Import, explore and answer a data science question with a real-world dataset and pandas.
 
-* [Refresh how to do stuff with pandas](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb).
+Requirements:
+
+* This tutorial assumes you already know the basics of [pandas](http://pandas.pydata.org/pandas-docs/stable/).
+
+Additional resources:
+
+* [How to do stuff with pandas](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb).
 * [Cheetsheets](https://www.dataquest.io/blog/topics/cheat-sheets/).
 
 ## Data
