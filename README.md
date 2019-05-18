@@ -4,18 +4,17 @@ https://github.com/maurolepore/using-pandas
 
 ## Where this fits?
 
-(2018-11-30)  
-![](https://i.imgur.com/AyyZf3T.png)
+Module 1: Python for data science
 
-## What you will learn
+> Students will be familiarized with popular Python libraries that are used in Data Science, such as Pandas.
 
-Objectives: 
+Today's objectives: 
 
 * Import, explore and answer a data science question with a real-world dataset and pandas.
 
 Requirements:
 
-* This tutorial assumes you already know the basics of [pandas](http://pandas.pydata.org/pandas-docs/stable/).
+* You already know the basics of [pandas](http://pandas.pydata.org/pandas-docs/stable/).
 
 Additional resources:
 
