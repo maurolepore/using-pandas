@@ -5,7 +5,7 @@
 
 # Using pandas 
 
-[bit.ly/mauro-using-pandas](https://bit.ly/mauro-using-pandas)
+https://github.com/maurolepore/using-pandas
 
 This tutorial is about pandas, a python library for multiple phases of the data science workflow.
 
