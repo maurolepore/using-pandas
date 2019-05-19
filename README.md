@@ -1,33 +1,35 @@
-# Using pandas (25')
+# (25') Using pandas
 
-https://github.com/maurolepore/using-pandas
+2019-05-20, Mauro Lepore (maurolepore@gmail.com)
 
-[Today's feedback](https://github.com/maurolepore/using-pandas/issues/1) :+1: :-1:
+# http://bit.ly/using-pandas
 
-### Curriculum
+---
 
-Module 1 > Python for data science
+![](https://i.imgur.com/zsnUvnj.png)
 
-> Students will be familiarized with popular Python libraries that are used in Data Science, such as Pandas.
+> Module 1: Students will be familiarized with popular Python libraries that are used in Data Science
 
-### Today's objectives
+---
 
-* Import, explore and answer a data science question with a real-world dataset and pandas.
+# Setup
 
-### Today's requirements
+* Create a new jupyter notebook.
+* Issues? Fork this notebook: http://bit.ly/using-pandas-kaggle
+
+# Requirements
 
 * You already know the basics of [pandas](http://pandas.pydata.org/pandas-docs/stable/).
 
-### Additional resources
+# Additional resources
 
+* [pandas documentation](http://pandas.pydata.org/pandas-docs/stable/).
 * [How to do stuff with pandas](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb).
-* [Cheetsheets](https://www.dataquest.io/blog/topics/cheat-sheets/).
+* Search cheetsheets in the wild.
 
-### Data
+# Objectives
 
-`police.csv` contains data of traffic stops made by police in Rhode Island. 
-
-It comes from the [Stanford Open Policing Project](https://openpolicing.stanford.edu/), made available under the [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/summary/).
+* Import, explore and answer a data science question with a real-world dataset and pandas.
 
 ----
 
